@@ -14,7 +14,7 @@
 
 ## 📫 Contatos
 
-- WhatsApp ou Telegram: +244931240190
+- WhatsApp ou Telegram: ``` +244931240190```
 - Email: ajbcompany4881@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/moises-clemente-benga-751977272?trk=contact-info)
 - Facebook: [Facebook-prifile](https://www.facebook.com/misesclemente.moislip)
