@@ -1,8 +1,26 @@
 # clementacompany
 
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Sobre Mim
 
-Meu nome é Moisés Clemente e sou um desenvolvedor apaixonado por tecnologia. Aqui estão alguns dos meus projetos:
+Me chamo Moisés Clemente, tenho 22 anos de idade. Sou um desenvolvedor full stack iniciante, com experiência em várias tecnologias e foco principal em desenvolvimento desktop com Electron e mobile com Ionic. Atualmente, estou focado no aprendizado e no aprimoramento das seguintes tecnologias:
+
+- **JavaScript**: 70% de conhecimento, com foco em programação orientada a objetos.
+- **PHP**: 80% de conhecimento, com foco em programação orientada a objetos.
+- **CSS**: 90% de conhecimento.
+
+---
+
+## Experiência Profissional
+
+Trabalho como freelancer independente e desenvolvi vários projetos, incluindo:
+
+- **Sistemas de Gestão**: Desenvolvimento de sistemas de gestão para diferentes tipos de negócios.
+- **Sistemas Escolares**: Implementação de soluções para escolas, incluindo gerenciamento de alunos, professores e recursos.
+- **Manutenção de Websites**: Atuei na manutenção e atualização de websites e landing pages para clientes diversos.
+
+---
+
+Fique à vontade para revisar e ajustar conforme necessário. Se precisar de mais alguma coisa ou tiver outras informações para adicionar, é só me informar!
 
 
 
