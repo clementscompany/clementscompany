@@ -20,7 +20,7 @@ Trabalho como freelancer independente e desenvolvi vários projetos, incluindo:
 
 ---
 
-Fique à vontade para revisar e ajustar conforme necessário. Se precisar de mais alguma coisa ou tiver outras informações para adicionar, é só me informar!
+
 
 
 
