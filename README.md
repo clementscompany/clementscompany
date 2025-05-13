@@ -4,10 +4,21 @@
 
 Me chamo Moisés Clemente, tenho 22 anos de idade. Sou um desenvolvedor full stack iniciante, com experiência em várias tecnologias e foco principal em desenvolvimento desktop com Electron e mobile com Ionic. Atualmente, estou focado no aprendizado e no aprimoramento das seguintes tecnologias:
 
-- **JavaScript**: 80% de conhecimento, com foco em programação orientada a objetos.
+- **JavaScript**: 90% de conhecimento, com foco em programação orientada a objetos.
 - **PHP**: 80% de conhecimento, com foco em programação orientada a objetos.
 - **CSS**: 90% de conhecimento.
 -  **SCSS (SASS)**: 90% de conhecimento.
+- **TypeScript**: 90% de conhecimento.
+-  **ReactJS**: 90% de conhecimento.
+-  **NEXT JS**: 90% de conhecimento.
+-  **NodeJS**: 90% de conhecimento.
+- **MySQL**: 90% de conhecimento.
+- **Doker**: 60% de conhecimento.
+  
+
+
+
+
 
 ---
 
