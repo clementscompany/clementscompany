@@ -14,6 +14,11 @@ Me chamo Moisés Clemente, tenho 22 anos de idade. Sou um desenvolvedor full sta
 -  **NodeJS**: 90% de conhecimento.
 - **MySQL**: 90% de conhecimento.
 - **Doker**: 60% de conhecimento.
+-  **React Native**: 90% de conhecimento.
+- **IONIC**: 90% de conhecimento.
+-  **ElectronJS**: 90% de conhecimento.
+-   **GO lang**: 10% (Learning...).
+
   
 
 
