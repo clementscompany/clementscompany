@@ -22,8 +22,6 @@ Foco o meu trabalho em **desenvolvimento desktop com Electron** e **mobile com I
 
 ---
 
-# Tecnologias & Ferramentas
-
 # Linguagens & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,react,reactnative,nextjs,nodejs,html,css,sass,tailwind,go,bootstrap,ionic,electron,codeigniter&theme=dark" />
