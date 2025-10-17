@@ -1,74 +1,102 @@
-# clementacompany
+<!-- Banner principal -->
+<h1 align="center"> Olá, eu sou o <span style="color:#4fff67;">Moisés Clemente</span></h1>
+<h3 align="center">Desenvolvedor Full Stack • Desktop & Mobile Developer</h3>
 
-# Sobre Mim
-
-Me chamo Moisés Clemente, tenho 22 anos de idade. Sou um desenvolvedor full stack iniciante, com experiência em várias tecnologias e foco principal em desenvolvimento desktop com Electron e mobile com Ionic. Atualmente, estou focado no aprendizado e no aprimoramento das seguintes tecnologias:
-
-- **JavaScript**: 90% de conhecimento, com foco em programação orientada a objetos.
-- **PHP**: 80% de conhecimento, com foco em programação orientada a objetos.
-- **CSS**: 90% de conhecimento.
--  **SCSS (SASS)**: 90% de conhecimento.
-- **TypeScript**: 90% de conhecimento.
--  **ReactJS**: 90% de conhecimento.
--  **NEXT JS**: 90% de conhecimento.
--  **NodeJS**: 90% de conhecimento.
-- **MySQL**: 90% de conhecimento.
-- **Doker**: 60% de conhecimento.
--  **React Native**: 90% de conhecimento.
-- **IONIC**: 90% de conhecimento.
--  **ElectronJS**: 90% de conhecimento.
--   **GO lang**: 10% (Learning...).
-
-  
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FFF67&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+Electron+%7C+Ionic;CodeIgniter+%7C+PHP+%7C+MySQL;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
+</p>
 
 ---
 
-## Experiência Profissional
+#  Sobre Mim
 
-Trabalho como freelancer independente e desenvolvi vários projetos, incluindo:
+Sou **Moisés Clemente**, tenho **22 anos** e sou um **desenvolvedor full stack** apaixonado por tecnologia.  
+Foco o meu trabalho em **desenvolvimento desktop com Electron** e **mobile com Ionic e React Native**, sempre em busca de inovação, desempenho e design moderno.
 
-- **Sistemas de Gestão**: Desenvolvimento de sistemas de gestão para diferentes tipos de negócios.
-- **Sistemas Escolares**: Implementação de soluções para escolas, incluindo gerenciamento de alunos, professores e recursos.
-- **Manutenção de Websites**: Atuei na manutenção e atualização de websites e landing pages para clientes diversos.
+**Áreas de foco:**
+- Desenvolvimento **Desktop** com **Electron**
+- Aplicações **Mobile** com **Ionic & React Native**
+- Aplicações **Web** com **ReactJS / NextJS**
+- Back-end **NodeJS e CodeIgniter (PHP OOP)**
+- Integração com **APIs REST** e **bancos de dados relacionais**
 
 ---
 
+# Tecnologias & Ferramentas
 
+# Linguagens & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,react,reactnative,nextjs,nodejs,html,css,sass,tailwind,go,bootstrap,ionic,electron,codeigniter&theme=dark" />
+</p>
 
+#### Banco de Dados & Infraestrutura
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,docker&theme=dark" />
+</p>
 
+#### Ferramentas de Trabalho
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark" />
+</p>
 
-#
+---
 
-<div style="display: flex; justify-content: center;">
- <img src="https://github-readme-stats.vercel.app/api?username=clementscompany&show_icons=true&bg_color=000000&text_color=4fff67&icon_color=4fff67)](https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementscompany&layout=compact&width=400&height=200&bg_color=000000" alt="Top Langs" style="margin-right: 20px;">
+### Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=clementscompany&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4fff67&text_color=ffffff&icon_color=4fff67" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementscompany&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=4fff67&text_color=ffffff" />
 </div>
 
-  # stacks
-  
-<div style="background-color: #0d1117; padding: 20px;">
-  <img src="https://github.com/clementscompany/clementscompany/assets/130271950/2f185800-f9a8-4348-b4da-4851b28ae185" width="50" height="50">
-  <img src="https://github.com/clementscompany/clementscompany/assets/130271950/70d73397-c2ca-4087-9bd7-5364bcfc0215" width="50" height="50">
-  <img src="https://github.com/clementscompany/clementscompany/assets/130271950/6dfadb48-1122-4c03-aeed-5eec68791983" width="50" height="50">
-  <img src="https://github.com/clementscompany/clementscompany/assets/130271950/5d07219d-de92-4ca9-8268-abd60d724c3e" width="50" height="50">
-  <img src="https://github.com/clementscompany/clementscompany/assets/130271950/5d793f5b-3771-42c4-bfe7-2d961a1bedc9" width="50" height="50">
-  <img src="https://github.com/clementscompany/clementscompany/assets/130271950/100a6997-ee38-40d5-89f7-3beaa52a6835" width="50" height="50">
-  <img src="https://github.com/clementscompany/clementscompany/assets/130271950/95e8556b-f96c-4b7d-b26c-ff81ccb541ec" width="50" height="50">
+---
+
+# Experiência Profissional
+
+Atuo como **freelancer independente**, desenvolvendo soluções completas e personalizadas para empresas e particulares:
+
+- **Sistemas de Gestão Empresarial** — Controle de vendas, estoque e relatórios.
+- **Sistemas Escolares** — Gestão de alunos, professores e relatórios.
+- **Manutenção e Atualização de Websites** — Otimização e modernização de sites.
+- **Aplicativos Mobile e Desktop** — Criados com **Ionic**, **React Native** e **Electron**.
+
+---
+
+### Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+|  **Atalaia** | Plataforma de controlo de segurança escolar e comunidade educativa. | React • Node • Sqlite |
+|  **ArcFarm** | Sistema de gestão de produtos veterinários e vendas. | CodeIgniter • MySQL • SCSS |
+| **Dashboard Admin** | Painel moderno com estatísticas e cards interativos. | React • Tailwind • Chart.js |
+
+---
+
+### Conquistas & Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=clementscompany&theme=tokyonight&background=0D1117&ring=4fff67&fire=4fff67&currStreakLabel=4fff67" alt="GitHub Streak" />
+</p>
+
+---
+
+# Onde Me Encontrar
+
+<p align="center">
+  <a href="https://github.com/clementscompany" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-4fff67?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/moises-clemente" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4fff67?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:moisesclemente.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4fff67?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>“A tecnologia é a arte de transformar ideias em realidade.”</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=clementscompany&label=👁️+Visualizações&color=4fff67&style=flat-square" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
