@@ -83,7 +83,7 @@ Atuo como **freelancer independente**, desenvolvendo soluções completas e pers
   <a href="https://github.com/clementscompany" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-4fff67?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/moises-clemente](https://www.linkedin.com/in/moises-clemente-751977272/" target="_blank">
+  <a href="https://www.linkedin.com/in/moises-clemente-751977272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4fff67?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ajbcompany4881@gmail.com">
