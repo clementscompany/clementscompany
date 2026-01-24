@@ -19,6 +19,7 @@ Atualmente trabalho principalmente com:
 - **ReactJS / NextJS** para Web
 - **Node.js** e **PHP (CodeIgniter OOP)** no Back-end
 - **APIs REST** e **bancos de dados relacionais**
+- **JS VANILA**  **Também tenho o domínio do JS puro para Construçãoes de Apps Com JS puro, Plugins, ou Libs**
 
 ---
 
