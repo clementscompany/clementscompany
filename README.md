@@ -51,7 +51,7 @@ Atualmente trabalho principalmente com:
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 Atuo como **Freelancer Full Stack**, desenvolvendo soluções completas:
 
@@ -62,7 +62,7 @@ Atuo como **Freelancer Full Stack**, desenvolvendo soluções completas:
 
 ---
 
-## ⭐ Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |-------|----------|-------------|
@@ -73,7 +73,7 @@ Atuo como **Freelancer Full Stack**, desenvolvendo soluções completas:
 ---
 
 
-## 🔥 Contribuições Recentes
+##  Contribuições Recentes
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=clementscompany&theme=tokyo-night&bg_color=0D1117&color=4fff67&line=4fff67&point=ffffff&area=true" />
